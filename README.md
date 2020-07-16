@@ -1,2 +1,0 @@
-# holdmynotes
-Bismillah platform
