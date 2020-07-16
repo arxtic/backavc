@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: mocoaiti
+title: Notes | Amikom Virus Community
 subtitle: ''
 description: 'just hold my notes and u gonna understand'
 keywords:
-author: arxtic
+author: arxtic 
 language: en
 timezone: 'ID'
 
@@ -99,3 +99,9 @@ theme: chic
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# hexo-admin authentification
+admin:
+  username: admin
+  password_hash: $2a$10$rBPSBg5dXWn6tMBtISJKXuFVtsPGEmS47ptwvWZud4b.dsXjFOXZm
+  secret: beSilencesssst
